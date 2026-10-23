@@ -1,0 +1,5 @@
+Student Details
+
+Name: Vinutha
+USN: 2026058
+Experiment: EXP-3
